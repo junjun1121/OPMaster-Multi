@@ -26,4 +26,3 @@ git clone https://github.com/jerrykuku/luci-app-argon-config package/luci-app-ar
 git clone https://github.com/sbwml/luci-app-alist package/luci-app-alist
 git clone -b main https://github.com/xiaorouji/openwrt-passwall package/psw
 git clone https://github.com/xiaorouji/openwrt-passwall-packages package/pswcore
-git clone https://github.com/sirpdboy/luci-app-ddns-go package/ddns-go
